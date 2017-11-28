@@ -3,7 +3,7 @@
 Hi 
 I will write information for the embedded system.
 
-## Raspberry Pi 
+### Raspberry Pi 
 
 Raspberry Pi is a most wonderful embedded hardware for learning and testing.
 Based Linux,
