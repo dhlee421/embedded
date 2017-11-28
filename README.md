@@ -3,9 +3,12 @@
 Hi 
 I will write information for the embedded system.
 
-### Markdown
+## Raspberry Pi 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Raspberry Pi is a most wonderful embedded hardware for learning and testing.
+Based Linux,
+Support various desktop linux solutions.
+
 
 ```markdown
 Syntax highlighted code block
