@@ -3,6 +3,8 @@
 Hi 
 I will write information for the embedded system.
 
+also you can see with this link https://dhlee421.github.io/embedded/
+
 ### Raspberry Pi 
 
 Raspberry Pi is a most wonderful embedded hardware for learning and testing.
